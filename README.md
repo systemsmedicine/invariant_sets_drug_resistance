@@ -1,7 +1,5 @@
 # Invariant set theory for streamlining the success of antibiotic cycling
 
-# Nombre del Proyecto
-
 This repository contains the computation of invariant sets for switched linear systems, with applications to a model for bacteria evolution of resistance to antibiotics. It also contains the solutions of a network-based nonlinear model for bacteria dynamics population.
 
 The nonlinear model is based on bug:drug interactions, which provide a mutation network based on collateral effects among the antibiotics used, namely collateral sensitivity, cross-resistance, and insensitivity. This mutation network connects with a series of differential equations that estimate the rate of change of the total bacteria population. The model used to describe the total population is given by a nonlinear switching system, where the drug used serves as a control measure for the population.
