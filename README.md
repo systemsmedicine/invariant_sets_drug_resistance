@@ -6,13 +6,13 @@ The nonlinear model is based on bug:drug interactions, which provide a mutation 
 
 For further details, please refer to: https://www.biorxiv.org/content/10.1101/2024.02.06.579227v1.abstract
 
-## Tabla de Contenidos
+## Table of Contents
 
-1. [Instalación](#instalación)
-2. [Contacto](#contacto)
+1. [Installation](#installation)
+2. [Contact](#contact)
 3. [Cite](#cite)
 
-## Instalación
+## Installation
 
 Before using this project, please ensure you have the following installed:
 
@@ -23,7 +23,7 @@ Matlab Installation: If you haven't already, install Matlab on your system. You 
 
 MPT3 Toolbox Installation: After installing Matlab, download and install the MPT3 toolbox. The MPT3 toolbox is required for working with polytope sets, specifically for utilizing the Polyhedron function. 
 
-## Contacto
+## Contact
 
 Alejandro Anderson: alelanderson@gmail.com
 Esteban Hernandez Vargas: esteban@uidaho.edu 
