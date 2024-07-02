@@ -1,6 +1,6 @@
 % Clear workspace
 
-% Figure 6
+% Figure 5
 
 %Colours
 vecrojo = [0.7;0;0]; vecnaranja = [1;0.4;0];veccyan = [0 0.7 0.8]; vecvioleta = [0.4 0 0.8]; vecverde = [0;0.7;0.1]; vecazul = [0;0;0.7]; vecnegro = [.1;.1;.1]; 
